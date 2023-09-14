@@ -1,0 +1,104 @@
+body {  
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+
+}
+.highlighted-text{
+    color:#FB6D3A; ;
+}
+.secondary-text {
+color: #A8A8A8;
+font-size: 12px;
+line-height: normal;
+}
+
+li, p {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    }
+    
+    h4 {
+color: #000;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    }
+
+
+    ol, ul {
+        padding-left: 16px;
+    }
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.10);
+    
+}
+.about-me-profession {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    
+}
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    color: #000;
+}
+
+
+.main-content-section{
+    margin: 40px;
+
+}
+
+.about-me-section {
+  
+}
+.my-projects-section {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+
+}
+.projects-item{
+    
+
+}
+.my-work-experience-section {
+font-size: 14px;
+font-weight: 700;
+
+
+    
+}
+.my-education-section {
+  
+
+}
+.side-bar-section {
+    background-color: #1E2939;
+    color: #fff;
+}
+.side-bar-info {
+    padding-left: 64px;
+    margin-top: 48px;
+
+}
+.side-bar-section li {
+    color: #fff;
+}
+.photo {
+    width: 370px;
+    margin-top: 36px;
+    margin-left: 24px;
+
+}
